@@ -45,7 +45,7 @@ The following approaches were implemented and systematically compared to evaluat
 
 ### Feature Representations
 - **Bag-of-Words (BoW)**
-- **TF-IDF** (unigrams + bigrams)
+- **TF-IDF** (unigrams + bigrams )
 - **Word2Vec embeddings** (document-level vectors obtained by averaging word embeddings)
 
 ### Models
