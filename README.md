@@ -27,7 +27,7 @@ The project follows a complete NLP workflow:
 - Total messages: ~5,500
 - Classes:
   - `ham` (legitimate messages)
-  - `spam` (unsolicited / fraudulent messages)
+  - `spam` (unsolicited / fraudulent messages )
 - Task: Binary text classification
 
 The dataset contains short, noisy SMS messages with URLs, numbers, and informal language, making it well-suited for evaluating preprocessing and feature-engineering choices in a telecom context.
