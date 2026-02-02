@@ -1,6 +1,4 @@
 # SMS Spam Detection using NLP  
-**Building a Text Classification Pipeline & Word Embedding Exploration**
-
 ---
 
 ## Project Overview
